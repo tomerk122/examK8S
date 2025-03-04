@@ -1,0 +1,4 @@
+af841166d67aa4affb4fafe1bb59316d-1853431204.eu-west-1.elb.amazonaws.com
+1yZTGs37UkLTRule
+
+argocd login af841166d67aa4affb4fafe1bb59316d-1853431204.eu-west-1.elb.amazonaws.com:443
